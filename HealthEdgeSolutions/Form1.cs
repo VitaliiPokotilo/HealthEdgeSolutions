@@ -14,31 +14,36 @@ namespace HealthEdgeSolutions
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("yeah");
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("ksugffd");
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("akjfgsugsdgkh");
 
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("qwertyuio");
 
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("asdfghjkl");
 
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("zxcvbnm,.");
 
         }
     }
